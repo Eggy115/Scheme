@@ -18,3 +18,17 @@ Scheme standard libraries: Scheme comes with a rich set of standard libraries th
 Scheme is used in a wide range of applications, including academic research, artificial intelligence, numerical computing, and embedded systems. It is known for its elegance and expressiveness, making it a popular choice among Lisp enthusiasts and functional programming enthusiasts alike.
 
 In Scheme, a programming language, the file extension commonly used for Scheme source code files is ".scm". For example, a Scheme program file may have a filename like "my_program.scm". However, it's worth noting that Scheme implementations may also use other file extensions, such as ".ss" or ".sld". The file extension is typically used to indicate the type of content in the file and to associate it with the appropriate programming language or interpreter. It's important to check the documentation or conventions of the specific Scheme implementation or development environment you are using to determine the preferred file extension for Scheme files in your particular context.
+
+## Contributing
+
+Contributions are always welcome! Here are some ways you can contribute:
+
+1. Fork the repository and make your changes. 
+2. Submit a pull request with your changes.
+3. Create an issue if you find a bug or have a feature request.
+
+Please make sure to adhere to the [code of conduct](CODE_OF_CONDUCT.md) and the [contributing guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the GPL v3 License - see the [LICENSE](LICENSE) file for details.
